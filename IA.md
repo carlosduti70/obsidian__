@@ -35,6 +35,6 @@ Varios estudios han demostrado que cuando aumenta el uso de la televisión o los
 Los principales fundamentos de nuestra inteligencia se ven afectados: el lenguaje, la concentración, la memoria, la cultura (definida como un corpus de conocimiento que nos ayuda a organizar y comprender el mundo).
 En última instancia, estos impactos conducen a una caída significativa en el rendimiento académico.
 
-  
 Diversas investigaciones han evidenciado que un incremento en el consumo de televisión o videojuegos se asocia con una disminución en el coeficiente intelectual y el desarrollo cognitivo. Estos estudios sugieren que aspectos fundamentales de nuestra inteligencia, como el lenguaje, la concentración, la memoria y la cultura, se ven afectados por estas actividades.
 El conocimiento, entendido como un conjunto de información que nos ayuda a comprender el mundo, también se ve impactado negativamente. Esta influencia combinada lleva a una notable reducción en el rendimiento académico de quienes se ven más inmersos en el uso excesivo de televisión o videojuegos.
+

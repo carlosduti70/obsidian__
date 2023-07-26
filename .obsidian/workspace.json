@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d37df775086a1005",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "juego titanic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Básico.md",
+                "file": "juego titanic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python Básico.md",
+                "file": "juego titanic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Básico.md"
+                "file": "juego titanic.md"
               }
             }
           }
@@ -172,10 +184,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6e6b62aee14222d9",
+  "active": "d37df775086a1005",
   "lastOpenFiles": [
-    "README.md",
+    "IA.md",
     "Python Básico.md",
-    "IA.md"
+    "README.md",
+    "juego titanic.md"
   ]
 }

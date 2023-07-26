@@ -1,5 +1,5 @@
 lenguaje de programación fácil de leer, que permite asignación de variables.
-
+***
 FUNCIONES Y AYUDA
 incluye la ayuda integrada a los valores por defecto, las funciones no devuelven valores y las funciones de orden superior.
 ***
@@ -16,10 +16,3 @@ TRABAJANDO CON LIBRERIAS EXTERNAS
 Python permite la importación de librerías, ya sea estándar o personalizadas a través de importaciones. las librería contienen módulos que son colecciones de funciones y valores
 ***
 
-
-4 numeros y un animal
-
-tres opciones 
-gano
-cambio de boleto
-no gano nada

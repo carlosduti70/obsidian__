@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5a030b950a3aeb07",
+            "id": "724a627320e507f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6b16d53b9c8c71e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e6b62aee14222d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python Básico.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d37df775086a1005",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EL ESPECTRO DE LA INTELIGENCIA ARTIFICIAL.md",
+                "file": "Semana de Inteligencia Artificial AI/Curso básico de NestJs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EL ESPECTRO DE LA INTELIGENCIA ARTIFICIAL.md",
+                "file": "Semana de Inteligencia Artificial AI/Curso básico de NestJs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EL ESPECTRO DE LA INTELIGENCIA ARTIFICIAL.md",
+                "file": "Semana de Inteligencia Artificial AI/Curso básico de NestJs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EL ESPECTRO DE LA INTELIGENCIA ARTIFICIAL.md"
+                "file": "Semana de Inteligencia Artificial AI/Curso básico de NestJs.md"
               }
             }
           }
@@ -184,12 +147,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d37df775086a1005",
+  "active": "724a627320e507f8",
   "lastOpenFiles": [
-    "machine_learning_build.jpg",
-    "README.md",
-    "Python Básico.md",
-    "IA.md",
-    "EL ESPECTRO DE LA INTELIGENCIA ARTIFICIAL.md"
+    "Pasted image 20230727165123.png",
+    "Pasted image 20230727164852.png",
+    "Semana de Inteligencia Artificial AI/EL ESPECTRO DE LA INTELIGENCIA ARTIFICIAL.md",
+    "Semana de Inteligencia Artificial AI/IA.md",
+    "Pasted image 20230727162433.png",
+    "Pasted image 20230727162150.png",
+    "Pasted image 20230727162037.png",
+    "Pasted image 20230727161813.png",
+    "Semana de Inteligencia Artificial AI/Pasted image 20230727111726.png",
+    "Semana de Inteligencia Artificial AI/Python Básico.md",
+    "Semana de Inteligencia Artificial AI/Uso de ChatGPT a obsidian.md",
+    "Pasted image 20230727155822.png",
+    "Pasted image 20230727155617.png",
+    "Semana de Inteligencia Artificial AI/Curso básico de NestJs.md",
+    "Pasted image 20230727151802.png",
+    "Pasted image 20230727151643.png",
+    "Semana de Inteligencia Artificial AI",
+    "Pasted image 20230727111152.png.md"
   ]
 }

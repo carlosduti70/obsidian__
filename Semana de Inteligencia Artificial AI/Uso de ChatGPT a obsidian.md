@@ -1,8 +1,4 @@
-# obsidian__
-
-**You:**
-
-los 8 tipos de datos de javascript con un ejemplo
+Los 8 tipos de datos de javascript con un ejemplo
 
 * * *
 

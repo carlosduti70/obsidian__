@@ -1,4 +1,5 @@
-Las inteligencias artificiales o IA son programas o sistemas que fueron diseñados para simular ser una inteligencia humana. Estas son capaces de aprender, tomar decisiones o procesar un lenguaje natural. 
+![[Pasted image 20230727162433.png]]
+Las inteligencias artificiales o IA son programas o sistemas que fueron diseñados para simular ser una inteligencia humana. Estas son capaces de aprender, tomar decisiones o procesar un lenguaje natural.
 
 Existen dos ramas de inteligencia artificial:
 
@@ -18,9 +19,10 @@ la ética al momento de usar IA es un tema muy importante actualmente ya que el 
 En resumen, la inteligencia artificial es una herramienta valiosa para ayudar contra el crimen cuando se aplica correctamente y con responsabilidad. Su capacidad para analizar datos, monitorear y reconocer objetos y rostros la convierte en un recurso importante para fortalecer la seguridad pública y proteger a la sociedad.
 ***
 **Salud (medicina personalizada):** El carácter interdisciplinar y la transversalidad de la inteligencia artificial (IA) han hecho que este tipo de ciencia sea, hoy en día, una **herramienta esencial** para la construcción de un **futuro más competitivo y eficaz**. Su uso en la medicina y en las ciencias de salud es imprescindible ya que, gracias a ella, se estrechan los pasos hacia la **nueva medicina 5P**: **más preventiva, participativa, personalizada, predictiva y poblacional.** 
-“Gracias a la Inteligencia Artificial, avanzamos en **la prevención, el diagnóstico y el tratamiento** de enfermedades, pero también en desarrollar nuevos medicamentos y mejorar la vida de los pacientes de una manera más eficiente”, afirma **Carmen González Madrid**, presidenta de Fundación Merck Salud (2023, párr. 1). 
+	“Gracias a la Inteligencia Artificial, avanzamos en **la prevención, el diagnóstico y el tratamiento** de enfermedades, pero también en desarrollar nuevos medicamentos y mejorar la vida de los pacientes de una manera más eficiente”, afirma **Carmen González Madrid**, presidenta de Fundación Merck Salud (2023, párr. 1). 
 ***
 <h1>Nativos digitales y su IQ</h1>
+![[Pasted image 20230727161813.png]]
 Los nativos digitales es un termino científico usado para describir aquellos que nacieron en la era digital, aquello que están expuestos a la tecnología desde una edad temprana.
 Ahora podemos saber que el coeficiente intelectual es una medida que se utiliza para medir el nivel de inteligencia de una persona, según Irene Hernández:
 
